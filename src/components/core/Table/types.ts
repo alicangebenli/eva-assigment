@@ -1,0 +1,1 @@
+export type Header = { key: string, text: string, scopedSlot: boolean }
